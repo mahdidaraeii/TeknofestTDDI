@@ -1,0 +1,1183 @@
+[
+    {
+        "sentence": "Clinique'in nemlendirici kremi kışın çok fazla kuruyan cildime iyi gelir umuduyla aldım, orijinal gibi görünüyor.",
+        "entities": [
+            {"entity": "Clinique", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Ürünü Sephora'dan aldım ve henüz kullanmaya başlamadım, paketleme ise biraz daha geliştirilebilir.",
+        "entities": [
+            {"entity": "Sephora", "sentiments": ["neutral"]}
+        ]
+    },
+    {
+        "sentence": "Douglas'tan aldığım ürün karton parçası ve toz içinde kalmış, üzerine bir streç sarılıp kutuya yerleştirilirse daha güzel olur.",
+        "entities": [
+            {"entity": "Douglas", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Bioderma Atoderm Cream Ultra 500 ml, atopik ve hassas ciltler için oldukça etkili bir nemlendiricidir. Kullanıcılar, cildi yumuşak ve pürüzsüz hale getirdiğini, uzun süreli nem sağladığını belirtmiştir.",
+        "entities": [
+            {"entity": "Bioderma", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "La Roche-Posay'in nemlendirici kremi ellerimdeki egzama gibi hasarları ilk günden itibaren toparlamaya başladı.",
+        "entities": [
+            {"entity": "La Roche-Posay", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Yüzümdeki kuruluk ve pul pul dökülme, Eucerin kremi kullanmaya başladıktan sonra tamamen geçti.",
+        "entities": [
+            {"entity": "Eucerin", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Bioderma kremi yüzüme sürdüğümde pamuk gibi yaptı ve tekrar kurumadı.",
+        "entities": [
+            {"entity": "Bioderma", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Neutrogena kremi ellerime deterjana maruz kaldıkça sürdüm ve mükemmel şekilde toparladı.",
+        "entities": [
+            {"entity": "Neutrogena", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Vichy'nin kremi, yüzüme ve ellerime sürdüğümde yanma yapmadı ve uzun süre dayanıyor, parasını hak ediyor.",
+        "entities": [
+            {"entity": "Vichy", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Arçelik ürününü satın almadan önce özelliklerini inceledim ve yorumları dikkatlice okudum, belki faydalı olur diye paylaşmak istedim.",
+        "entities": [
+            {"entity": "Arçelik", "sentiments": ["neutral"]}
+        ]
+    },
+    {
+        "sentence": "Philips kettle yüksek sese hassasiyetim olmasına rağmen çalıştığı sırada aşırı bir ses çıkarmıyor.",
+        "entities": [
+            {"entity": "Philips", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Bosch'un alt ve üst haznesi gayet iyi üstelik suyu kaynatma süresi de ideal.",
+        "entities": [
+            {"entity": "Bosch", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Siemens ürünü geç sürede kaynama yapıyor, tavsiye etmem.",
+        "entities": [
+            {"entity": "Siemens", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Vestel kettle kaynarken sesi rahatsız ediyor.",
+        "entities": [
+            {"entity": "Vestel", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Fakir kettle ürünü Nisan ayında aldım ve kullanmaya başladığım ilk zamanlarda hiç sorun yaşamadım.",
+        "entities": [
+            {"entity": "Fakir", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Tefal ürünü zamanla kabarcıklar ve soyulmalar başladı, sadece bulaşık deterjanı ve yumuşak bez ile titiz kullanmama rağmen.",
+        "entities": [
+            {"entity": "Tefal", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Arzum kettle kullanıcılarına bilgi olsun diye değerlendirme yaptım, zamanla boyası atıyor, iki puanı bu yüzden kırdım.",
+        "entities": [
+            {"entity": "Arzum", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Kırmızı renk Kenwood kettle kapağının hissi çok kalitesiz bir plastik, ikinci kullanımda eriyecekmiş gibi hissettim.",
+        "entities": [
+            {"entity": "Kenwood", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Maskeleme bandı izleri Delonghi kettle boyasında görünüyor, ürünü kullanmadan iade etmeye karar verdik.",
+        "entities": [
+            {"entity": "Delonghi", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Karaca müşteri hizmetleri bu konuda hiç kimseyle muhatap olmuyor, paramız rezil oldu.",
+        "entities": [
+            {"entity": "Karaca", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Tefal kettle dış yüzeyi 5 ay sonra çillendi, servise gönderdim ve geri gönderdiler, Hepsiburada ile iletişime geçtim.",
+        "entities": [
+            {"entity": "Tefal", "sentiments": ["negative"]},
+            {"entity": "Hepsiburada", "sentiments": ["neutral"]}
+        ]
+    },
+    {
+        "sentence": "Hepsiburada satıcısından aldığım ürün açılmış ve deforme kutu ile geldi, eksik parçası vardı, demlik kapağı çıkmadı.",
+        "entities": [
+            {"entity": "Hepsiburada", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Migros Hemen'den sipariş verdiğim 2 ürün hatalı geldi",
+        "entities": [
+            {"entity": "Migros Hemen", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Philips harika bir ürün. Evet, sesi biraz yüksek ama mutfakta tam bir yardımcı.",
+        "entities": [
+            {"entity": "Philips", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Tefal tost makinesi tam bir fiyat-performans ürünü. İkinciyi aldık ve çok memnunuz.",
+        "entities": [
+            {"entity": "Tefal", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Ses kalitesi ve ergonomisi rezalet, Sony olduğu için aldım ama 4'te 1 fiyatına Çin replika ürün alsaydım çok daha iyiydi, kesinlikle tavsiye etmiyorum.",
+        "entities": [
+            {"entity": "Sony", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Çok hızlı bir şekilde elime geldi. Evet, oldukça sesli ama Dyson elektrik süpürgesi kadar iyi çekim gücü var, pratik ve tavsiye ederim.",
+        "entities": [
+            {"entity": "Dyson", "sentiments": ["positive", "negative"]}
+        ]
+    },
+    {
+        "sentence": "Teşekkür ediyorum, Samsung telefon çok güzel ve kargo kısa sürede ulaştı. İnternetten almada tereddüt etmiştim ama sıkıntı yaşamadım, cihaz 2 yıl Samsung Türkiye garantili, tavsiye ederim.",
+        "entities": [
+            {"entity": "Samsung", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Görüntü estetik olarak gayet güzel, LG televizyon güzel iş göreceğine eminim ama dış malzemesi biraz daha kaliteli tutulabilirdi. Çok tel maşa duruyor.",
+        "entities": [
+            {"entity": "LG", "sentiments": ["positive", "negative"]}
+        ]
+    },
+    {
+        "sentence": "Güzel ürün, Arçelik blender keşke gri metal renkli olsaydı, sapı daha güzel olurdu, siyah çıktı. Bundan haricinde ürün güzel. Teşekkürler.",
+        "entities": [
+            {"entity": "Arçelik", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Görüntü olarak gayet güzel bir Philips çaydanlık. Ama çaydanlık kısmı tam oturmadığı için iade edeceğim maalesef.",
+        "entities": [
+            {"entity": "Philips", "sentiments": ["negative", "positive"]}
+        ]
+    },
+    {
+        "sentence": "Sorunsuz tam zamanında geldi. Vestel buzdolabı fiyat kalite açısından tatminkar.",
+        "entities": [
+            {"entity": "Vestel", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Ürünü çeyizime aldım, Arzum tost makinesi paketi açıp denedim, hemen ısındı. İnşallah iyidir :)",
+        "entities": [
+            {"entity": "Arzum", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Basit bir ürün, Fakir süpürge zaten kutuyu açtığımda tekeri yerinden çıkmıştı, hiç tavsiye etmem.",
+        "entities": [
+            {"entity": "Fakir", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Ürün elime gayet hızlı ulaştı. Beko mikser fiyatına göre kullanışlı, iyi bir ürün.",
+        "entities": [
+            {"entity": "Beko", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Kesinlikle berbat bir Lenovo tablet. 100 MB'lik oyun açtım ve tabletin ekranı sıcaklığından yanıyordu resmen. Kesinlikle kötü, para ekleyip başka bir model alın, elinize kalır bu tablet!!",
+        "entities": [
+            {"entity": "Lenovo", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Ürün 1800 W olması nedeniyle ızgara anlamında yeterli performansı sunamıyor. Bu durum geç pişirmeye sebep oluyor. Breville tavuk ürünlerinde bile aynı sıkıntı yaşanmakta, etlerde süre iyice uzuyor. Yoksa cihazın tasarımı ve kalitesi kötü denemez. Ama efektif kullanım açısından tatmin edici bir hizmet alamıyorsunuz.",
+        "entities": [
+            {"entity": "Breville", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Fiyat performans olarak çok iyi. Tefal geniş aileler için uygun büyüklükte.",
+        "entities": [
+            {"entity": "Tefal", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Çok çabuk bozuldu. Panasonic ürünü tavsiye etmiyorum.",
+        "entities": [
+            {"entity": "Panasonic", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Fiyatı uygun ve çok kullanışlı bir ürün. Morphy Richards kargo elime sorunsuz bir şekilde ulaştı. Bazı yorumlarda sesinden rahatsız olduklarını okumuştum ama bana öyle çok gürültülü gelmedi.",
+        "entities": [
+            {"entity": "Morphy Richards", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "DeLonghi oldukça kaliteli bir ürün.",
+        "entities": [
+            {"entity": "DeLonghi", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Fiyatta yanlışlık var sanırım, Whirlpool.",
+        "entities": [
+            {"entity": "Whirlpool", "sentiments": ["neutral"]}
+        ]
+    },
+    {
+        "sentence": "Özellikle bu sınıfta fiyatıyla çok başarılı ve iddialı. Nikon görüntü kalitesiyle, hızlı çekimleriyle, sabit odaklanmalı lensiyle beklenen bütün özellikleri bir arada sunabiliyor. Sadece yapısı gereği büyük ve ağır gelebilir.",
+        "entities": [
+            {"entity": "Nikon", "sentiments": ["positive", "negative"]}
+        ]
+    },
+    {
+        "sentence": "Fena değil ama Rowenta plakalar hemen çiziliyor.",
+        "entities": [
+            {"entity": "Rowenta", "sentiments": ["neutral", "negative"]}
+        ]
+    },
+    {
+        "sentence": "Logitech ürün görüntü olarak güzel fakat ses zayıf.",
+        "entities": [
+            {"entity": "Logitech", "sentiments": ["positive", "negative"]}
+        ]
+    },
+    {
+        "sentence": "Gerçekten verilen paraya çok yazık, Trust mouse hiç çalışmıyor, almayın bence. Dışarıda salgın varken geri iade nasıl edilir uğraşabilir miyim bilmiyorum. Bir öğrencinin harçlığıyla bu mouse'u alması ve karşılığının bu olması çok üzücü. Kesinlikle almayın.",
+        "entities": [
+            {"entity": "Trust", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Mağaza iletişimi çok iyi... Electrolux lojistik teslimatı gün ve zamanında oldu... Servisten randevuyu teslim gününde mağaza aldı, gelip kurulumunu yaptılar... Makinanın fiyatı gayet iyi... Tavsiye ederim.",
+        "entities": [
+            {"entity": "Electrolux", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Üründe sorun yok ama Aras Kargo ve mağaza ile biraz sorun yaşadım.",
+        "entities": [
+            {"entity": "Aras Kargo", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Orta karar fiyat kalite. Casio.",
+        "entities": [
+            {"entity": "Casio", "sentiments": ["positive", "neutral"]}
+        ]
+    },
+    {
+        "sentence": "Ürün güzel, paketleme özenli, kargo hızlıydı. Daha önce de aynı mağazadan aynı üründen almıştım, o zaman da memnundum yine memnun kaldım. Tavsiye ederim, teşekkürler Philips.",
+        "entities": [
+            {"entity": "Philips", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Ben beğenmedim. Dyson halıda gidip gelmesi için çok güçlü kollara sahip olmanız lazım. Emiş gücünden dolayı değil. Halı başlığı sıkıntılı.",
+        "entities": [
+            {"entity": "Dyson", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Ses aşırı derecede tiz çıkıyor. JBL Samsung S7 Edge ile gelen kulaklık mükemmel tok bir ses ve dengeli bas tiz sunuyor, bu kulaklıkta aşırı tiz ses alınıyor! Pişman oldum aldığıma.",
+        "entities": [
+            {"entity": "JBL", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Gelmeyen ürünü nasıl beğeneyim? PTT'in Allah belasını versin.",
+        "entities": [
+            {"entity": "PTT", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Çok şirin ve kibar. Kenwood yer kaplamıyor. Tavsiye ederim.",
+        "entities": [
+            {"entity": "Kenwood", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Çok güzel, Bosch herkese tavsiye ederim.",
+        "entities": [
+            {"entity": "Bosch", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Geldiği günün ertesi üstü kırıldı sıcak su koyar koymaz. Toshiba ya uygun diye bu kadar kötü ürün satmayın lütfen.",
+        "entities": [
+            {"entity": "Toshiba", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Bu paraya göre sınıfının en iyisi diyebilirim. Daha önce kendime almıştım, bir yıldır sorunsuz kullanıyoruz, bunu da oğluma aldık. Miele.",
+        "entities": [
+            {"entity": "Miele", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Sorunsuz güzel ürün. Teşekkürler Smeg.",
+        "entities": [
+            {"entity": "Smeg", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Abime almıştım, komşu herkes beğendi, 3 tane daha sipariş verdik. Russell Hobbs ürün sesli olsa da fiyat/performansı çok iyi.",
+        "entities": [
+            {"entity": "Russell Hobbs", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Schwarzkopf saçın kendi dip rengine pek fazla etki etmiyor, önceki boyalı kısımlarda renk veriyor. Fakat renk tonu muazzam güzel.",
+        "entities": [
+            {"entity": "Schwarzkopf", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Bayıldım, rengi görünüşü harika. Korkmaz çeyizime aldım, denedim, ısınması hızlı. İnşallah kullanınca da memnun kalırım. Korkmaz kalitesi zaten ayrıca paketlenmesi, kargo hızı mükemmel. Teşekkürler Trendyol.",
+        "entities": [
+            {"entity": "Korkmaz", "sentiments": ["positive"]},
+            {"entity": "Trendyol", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Instagram uygulaması galerimi algılamıyor. Fotoğraf atamıyorum, hikaye atamıyorum resmen galeri yok gibi. Instagram LÜTFEN DÜZELSİN.",
+        "entities": [
+            {"entity": "Instagram", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Samsung kalitesi bir başka, hayatımı kolaylaştıran bir ürün tavsiye ediyorum.",
+        "entities": [
+            {"entity": "Samsung", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Kesinlikle lekelerde etkili bir kapatıcı değil. Pastel aldım ama beğenmedim. Beklediğim gibi çıkmadı.",
+        "entities": [
+            {"entity": "Pastel", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Anadolu Jet ile yaşadığım yolculukta valizim Ankara'da unutuldu, dönüşte koltuklarımız değişti ve ikramlarımız eksikti. Şikayetlerimize rağmen geri dönüş alamadık; müşteri memnuniyeti sıfır.",
+        "entities": [
+            {"entity": "Anadolu Jet", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Sunexpress'in Dublin-İzmir uçuşu 2 saat rötar yaptı, ardından İzmir-Gaziantep uçuşu iptal oldu ve bilgi verilmedi. Müşteri memnuniyeti sıfır, hukuki yollara başvuracağım.",
+        "entities": [
+            {"entity": "Sunexpress", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Pegasus'un hizmeti her geçen gün kötüleşiyor. Sabiha'dan Antalya'ya bavulumu getiremediniz, tatilimin ilk gününü rezil ettiniz. Gerçekten bir otobüs firması kadar bile güven vermiyorsunuz.",
+        "entities": [
+            {"entity": "Pegasus", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Pegasus'un İzmir-Kiev uçuşu iptal olduğunda alternatif olarak Lviv'e seyahat etme fırsatı sundu. Müşteri memnuniyeti odaklı yaklaşımları ve hızlı çözüm önerileriyle çok memnun kaldım.",
+        "entities": [
+            {"entity": "Pegasus", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Sürat Kargo'nun teslimat süresi makul ama paketleme kalitesi daha iyi olabilirdi.",
+        "entities": [
+            {"entity": "Sürat Kargo", "sentiments": ["neutral"]}
+        ]
+    },
+    {
+        "sentence": "Pegasus'un bilet fiyatları uygun ama check-in süreci biraz zaman aldı.",
+        "entities": [
+            {"entity": "Pegasus", "sentiments": ["positive", "negative"]}
+        ]
+    },
+    {
+        "sentence": "Sunexpress'in koltukları konforlu ama eğlence sistemi geliştirilmelidir.",
+        "entities": [
+            {"entity": "Sunexpress", "sentiments": ["positive", "negative"]}
+        ]
+    },
+    {
+        "sentence": "Turkcell'in müşteri hizmetleri sorunları çözmekte yetersiz kaldı ve beklediğim hizmeti alamadım.",
+        "entities": [
+            {"entity": "Turkcell", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Allık cildime canlı bir renk kazandırıyor ve taze bir görünüm sağlıyor.Bu ürünü NARS'tan aldım",
+        "entities": [
+            {"entity": "NARS", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Laptopun performansı beklentilerimin üzerinde, özellikle oyun oynarken mükemmel bir deneyim sundu. Bu ürünü Dell'den aldım.",
+        "entities": [
+            {"entity": "Dell", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "eBay'in uygulaması zaman zaman çok yavaş çalışıyor ve ödeme işlemlerinde sık sık sorun yaşıyorum. Müşteri hizmetleri desteği de yetersiz kalıyor.",
+        "entities": [
+            {"entity": "eBay", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Amazon'un mobil uygulaması, geniş ürün yelpazesi ve kullanıcı dostu arayüzü sayesinde alışveriş yapmayı oldukça kolaylaştırıyor. Siparişlerim her zaman hızlı ve sorunsuz bir şekilde ulaşıyor.",
+        "entities": [
+            {"entity": "Amazon", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Trendyol'un uygulaması sayesinde alışverişlerimi hızlıca yapabiliyorum ve sık sık düzenlenen kampanya ve indirimler ile tasarruf ediyorum. Kargo süreçleri de genellikle çok hızlı.",
+        "entities": [
+            {"entity": "Trendyol", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Sahibinden'in uygulaması, ikinci el ürünler için iyi bir platform sunuyor fakat bazen ürünlerin açıklamaları yeterince detaylı olmayabiliyor ve kullanıcılar bu konuda bilgi eksikliği yaşayabiliyor.",
+        "entities": [
+            {"entity": "Sahibinden", "sentiments": ["positive", "negative"]}
+        ]
+    },
+    {
+        "sentence": "IKEA'nın uygulaması, mobilya ve ev eşyaları alışverişini kolaylaştırıyor. Ürünlerin detaylı açıklamaları ve kullanıcı yorumları çok yardımcı oluyor.",
+        "entities": [
+            {"entity": "IKEA", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "JBL kulaklıklar, dengeli ve tok ses profili sunarak müzik keyfini artırırken, Sony kulaklıklar aşırı tiz seslerle rahatsızlık verebiliyor.",
+        "entities": [
+            {"entity": "JBL", "sentiments": ["positive"]},
+            {"entity": "Sony", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Gerçekten harika, Vestel'den aldığım televizyon kalite ve dayanıklılık konusunda çok memnunum.",
+        "entities": [
+            {"entity": "Vestel", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Mobilyalar çok yenilikçi ve kullanışlı tasarımlara sahip, Koçtaş'tan aldığımız.",
+        "entities": [
+            {"entity": "Koçtaş", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Bir hafta içinde bozuldu, Teknosa'dan aldığım laptop kalite konusunda ciddi sorunlar var.",
+        "entities": [
+            {"entity": "Teknosa", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Çabuk bozuldu, Bim'den aldığım ürünler dayanıklılık konusunda beklediğimi bulamadım.",
+        "entities": [
+            {"entity": "Bim", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Müşteri hizmetlerine ulaşmak neredeyse imkansız, Vodafone çok ilgisiz.",
+        "entities": [
+            {"entity": "Vodafone", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Gecikmeli teslim edildi, Çiçeksepeti'nden sipariş verdiğim çiçekler zamanında ulaşmadı.",
+        "entities": [
+            {"entity": "Çiçeksepeti", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Sık sık indirim yapıyor ve kaliteli ürünler satıyor, LC Waikiki alışveriş yapmak çok keyifli.",
+        "entities": [
+            {"entity": "LC Waikiki", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Düşük kaliteli ürünler, H&M'den aldığım giysiler çabuk yıprandı.",
+        "entities": [
+            {"entity": "H&M", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Garanti Bankası ile çalışmak her zaman çok keyifli. Müşteri hizmetleri çok ilgili ve her sorunuza hızlı bir şekilde yanıt veriyorlar. Ayrıca bankacılık işlemleri çok hızlı ve güvenli bir şekilde gerçekleştiriliyor. Garanti Bankası ile çalışmaktan son derece memnunum ve herkese tavsiye ederim.",
+        "entities": [
+            {"entity": "Garanti Bankası", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Turkcell'in internet hizmetinden çok memnunum. Hızlı ve güvenilir bir bağlantı sağlıyorlar ve yaşadığım sorunları hızlı bir şekilde çözüyorlar. Ayrıca müşteri hizmetleri de çok ilgili ve her sorunuza hızlı bir şekilde yanıt veriyorlar. Turkcell'in hizmet kalitesi gerçekten çok yüksek.",
+        "entities": [
+            {"entity": "Turkcell", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "CarrefourSA'dan alışveriş yapmak her zaman keyifli ve tatmin edici. Ürünlerin kalitesi ve tazeliği konusunda hiç hayal kırıklığına uğramadım. Ayrıca sık sık yapılan kampanyalar ve indirimler sayesinde çok avantajlı alışverişler yapabiliyorum. CarrefourSA'nın müşteri hizmetleri de her zaman çok yardımcı ve güler yüzlü.",
+        "entities": [
+            {"entity": "CarrefourSA", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Amazon'dan sipariş verdiğim ürünler her seferinde güvenli ve hasarsız paketlenmiş olarak geliyor. Teslimat süreleri çok hızlı ve belirtilen tarihlerde ürünler elime ulaşıyor. Ayrıca müşteri hizmetleri ekibi de oldukça ilgili ve her sorunuza hızlı bir şekilde yanıt veriyor. Amazon'dan alışveriş yapmak her zaman güvenli ve memnuniyet verici.",
+        "entities": [
+            {"entity": "Amazon", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Türk Telekom ile yaşadığım deneyim gerçekten olağanüstüydü. Personel çok dostane ve yardımseverdi. İnternet bağlantısıyla ilgili yaşadığım bir sorunu kısa sürede çözdüler ve ayrıca yeni paketler hakkında da detaylı bilgi verdiler. Hizmet kalitesi ve müşteri memnuniyeti konusunda gerçekten çok başarılılar.",
+        "entities": [
+            {"entity": "Türk Telekom", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Yavaş teslimat ve ilgisiz müşteri hizmetleri, Hepsiburada'dan alışveriş yapmak sıkıntılı.",
+        "entities": [
+            {"entity": "Hepsiburada", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Anadolu Efes, yıllardır tercih ettiğim güvenilir ve itibarlı bir marka. Ürünlerinin kalitesi ve lezzeti konusunda hiç hayal kırıklığına uğramadım. Ayrıca sosyal sorumluluk projeleri ve çevre dostu uygulamaları ile de takdirimi kazanıyorlar. Anadolu Efes ürünlerini gönül rahatlığıyla tavsiye ederim.",
+        "entities": [
+            {"entity": "Anadolu Efes", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Migros'tan aldığım ürünler her zaman taze ve lezzetli. Mağaza düzeni ve ürünlerin yerleşimi de çok başarılı, alışveriş yapmak çok keyifli. Ayrıca müşteri hizmetleri de her zaman çok yardımcı ve güler yüzlü. Migros'tan alışveriş yapmaktan son derece memnunum.",
+        "entities": [
+            {"entity": "Migros", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "D&R'dan aldığım kitaplar ve müzik CD'leri her zaman hızlı ve güvenli bir şekilde teslim ediliyor. Ürün yelpazesi çok geniş ve her zevke uygun bir şeyler bulmak mümkün. D&R'dan alışveriş yapmak benim için büyük bir keyif.",
+        "entities": [
+            {"entity": "D&R", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Greyder'den aldığım ayakkabılar hem şık hem de çok dayanıklı. Ürünlerin kalitesi gerçekten harika ve uzun süre kullanabiliyorum. Ayrıca mağaza personeli de çok ilgili ve güler yüzlü. Greyder'den alışveriş yapmaktan son derece memnunum.",
+        "entities": [
+            {"entity": "Greyder", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Lego'dan aldığımız yapı setleri çocuklar için eğlenceli ve öğretici bir deneyim sundu. Ürünlerin kalitesi harika, ve montaj talimatları oldukça açık. Lego ile alışveriş yapmak her zaman tatmin edici.",
+        "entities": [
+            {"entity": "Lego", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Nexon'dan satın aldığım oyun donanımının performansı oldukça düşük ve garanti süreci karmaşık. Ayrıca, müşteri hizmetleri desteği de yetersizdi. Nexon'dan alışveriş yapmaktan pek memnun kalmadım.",
+        "entities": [
+            {"entity": "Nexon", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Defacto'dan aldığım giysiler hem kalitesiz hem de dikiş yerlerinden hemen yıprandı. Ürünlerin teslimatı zamanında gerçekleşti ancak müşteri destek ekibi bu konuda yeterince yardımcı olmadı ve iade süreci de oldukça karmaşıktı.",
+        "entities": [
+            {"entity": "Defacto", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Tosçelik'ten aldığım metal profillerin kalitesi beklentilerimin çok altında kaldı ve proje sırasında ciddi sorunlar yaşadım, bir daha asla bu markayı tercih etmem.",
+        "entities": [
+            {"entity": "Tosçelik", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Bosch buzdolabım sürekli arıza yapıyor ve müşteri hizmetleri sorunumu çözmekte oldukça yavaş davranıyor, büyük bir hayal kırıklığı yaşadım.",
+        "entities": [
+            {"entity": "Bosch", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Coca-Cola'nın yeni çıkardığı ürünün tadı gerçekten kötüydü ve gazlı içecek sever olarak büyük bir hayal kırıklığına uğradım.",
+        "entities": [
+            {"entity": "Coca-Cola", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Philip Morris'in sigaralarının fiyatı sürekli artıyor ve kalitesinde hiçbir iyileşme göremiyorum, artık bu markayı tercih etmeyi bırakacağım.",
+        "entities": [
+            {"entity": "Philip Morris", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "MAN kamyonlarının yakıt tüketimi çok yüksek ve bakım masrafları oldukça fazla, bu yüzden bir daha asla bu markayı tercih etmem.",
+        "entities": [
+            {"entity": "MAN", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "JTI'nin sigaraları artık eski kalitesinde değil, her pakette farklı bir tat ve duman yoğunluğu ile karşılaşıyorum, çok sinir bozucu.",
+        "entities": [
+            {"entity": "JTI", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Goodyear lastikleri aldım ama beklediğim performansı vermedi, lastiklerin yol tutuşu ve dayanıklılığı gerçekten çok kötü.",
+        "entities": [
+            {"entity": "Goodyear Lastikleri T.A.Ş.", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Türk Tuborg birasının tadı eskisi gibi değil, yeni formülü gerçekten çok kötü olmuş ve içimi oldukça zor.",
+        "entities": [
+            {"entity": "Türk Tuborg", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Tefal tavalarımın kaplaması çok çabuk aşındı, garanti süresi içinde olmasına rağmen müşteri hizmetleri yardımcı olmadı.",
+        "entities": [
+            {"entity": "Tefal", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Bershka'dan aldığım kıyafetler birkaç yıkamadan sonra deforme oldu, kumaş kalitesi gerçekten çok kötü ve bu durum beni çok üzdü.",
+        "entities": [
+            {"entity": "Bershka", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Hugo Boss parfümünün kokusu beklediğim gibi kalıcı değil, birkaç saat sonra hiç bir şey sürmemiş gibi kokusunu tamamen kaybediyor.",
+        "entities": [
+            {"entity": "Hugo Boss", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Diesel kot pantolon aldım ama ilk yıkamadan sonra rengi soldu ve kumaşında deformasyon oldu, büyük hayal kırıklığı yaşadım.",
+        "entities": [
+            {"entity": "Diesel", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Gant marka saatimin kayışı kısa sürede yıprandı, beklediğim kaliteyi bulamadım ve çok pişman oldum.",
+        "entities": [
+            {"entity": "Gant", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Gucci çantamın deri kalitesi çok düşük çıktı, birkaç kullanımda çizikler ve deformasyonlar oluştu, bu markadan beklemezdim.",
+        "entities": [
+            {"entity": "Gucci", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Levi's kot pantolonumun dikişleri kısa sürede açıldı, dayanıklılığına güvendiğim bu marka beni gerçekten hayal kırıklığına uğrattı.",
+        "entities": [
+            {"entity": "Levi's", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Massimo Dutti mağazasından aldığım ceket çok çabuk yıprandı ve rengini kaybetti, verdiğim paraya kesinlikle değmedi.",
+        "entities": [
+            {"entity": "Massimo Dutti", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Mudo'dan aldığım mobilyaların montajı çok zordu ve parçalarda birçok üretim hatası vardı, gerçekten çok sinir bozucuydu.",
+        "entities": [
+            {"entity": "Mudo", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Nautica'dan aldığım mont su geçirmez denmesine rağmen yağmurda su aldı, markaya olan güvenim tamamen sarsıldı.",
+        "entities": [
+            {"entity": "Nautica", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Dyson süpürgemin çekiş gücü birkaç ay içinde düştü, pahalı bir ürün olmasına rağmen kalitesi beklentimi karşılamadı.",
+        "entities": [
+            {"entity": "Dyson", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "JBL hoparlörümün sesi çok kısa sürede bozuldu ve tamir için servis süreci çok uzun sürdü, bu markadan böyle bir şey beklemezdim.",
+        "entities": [
+            {"entity": "JBL", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Troy'dan aldığım güvenlik yazılımı sürekli hata veriyor ve bilgisayarımı yavaşlatıyor, hiç memnun kalmadım.",
+        "entities": [
+            {"entity": "Troy", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Getmobil telefon aksesuarlarının kalitesi çok düşük, aldığım kılıf birkaç haftada deforme oldu, paramı boşa harcadım.",
+        "entities": [
+            {"entity": "Getmobil", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Cartier saatim sürekli geri kalıyor ve tamir için gönderdiğimde sorun çözülmedi, bu kadar pahalı bir üründen bunu beklemezdim.",
+        "entities": [
+            {"entity": "Cartier", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Saat&Saat mağazasından aldığım saatin camı çok çabuk çizildi, ürün kalitesinden hiç memnun kalmadım.",
+        "entities": [
+            {"entity": "Saat&Saat", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Swatch saatim su geçirmez olmasına rağmen ilk yağmurda su aldı, büyük bir hayal kırıklığı yaşadım.",
+        "entities": [
+            {"entity": "Swatch", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Swarovski kolyemin taşları birkaç kullanımda düşmeye başladı, bu kadar pahalı bir ürün için kalite çok düşük.",
+        "entities": [
+            {"entity": "Swarovski", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Calvin Klein iç çamaşırlarının dikişleri kısa sürede açıldı ve kumaşı çok çabuk yıprandı, kalite çok kötü.",
+        "entities": [
+            {"entity": "Calvin Klein", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Jimmy Key kıyafetlerinin kumaş kalitesi gerçekten çok düşük, birkaç yıkamadan sonra renk attı ve deforme oldu.",
+        "entities": [
+            {"entity": "Jimmy Key", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Chanel parfümünün kokusu kalıcı değil ve birkaç saat sonra tamamen kayboluyor, bu kadar pahalı bir ürün için çok hayal kırıklığı.",
+        "entities": [
+            {"entity": "Chanel", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Hepsiburada sağolsun kolay iade alıyor ama her seferinde kur sıfırıla gönder bekle gereksiz.",
+        "entities": [
+            {"entity": "Hepsiburada", "sentiments": ["positive", "negative"]}
+        ]
+    },
+    {
+        "sentence": "Uzun araştırma ve yorumları inceleme sürecinden sonra Audi A6 almaya karar verdim.",
+        "entities": [
+            {"entity": "Audi", "sentiments": ["neutral"]}
+        ]
+    },
+    {
+        "sentence": "Bilgisayarcı arkadaşım da Lenovo önerdi.",
+        "entities": [
+            {"entity": "Lenovo", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Hepsiburada satıcısı gayet ilgiliydi ancak kutusu hasarlı olarak gelmişti.",
+        "entities": [
+            {"entity": "Hepsiburada", "sentiments": ["positive", "negative"]}
+        ]
+    },
+    {
+        "sentence": "Genel gözlemlerime göre jet gibi hızlı kesinlikle tavsiye ederim sadece Lenovo sitesinden sorguladığımda ürünün garantisi ağustosta başlamış görünüyor düzelteceklerini söylediler umarım işler yolunda gider.",
+        "entities": [
+            {"entity": "Lenovo", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Uzun yıllar Asus kullanıcısıyım.",
+        "entities": [
+            {"entity": "Asus", "sentiments": ["neutral"]}
+        ]
+    },
+    {
+        "sentence": "Alacaklara tavsiye ediyorum, bu Amazon işini sorunsuz yapıyor.",
+        "entities": [
+            {"entity": "Amazon", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Her gün olsa bile giderim çünkü Nero çok lezzetli kahveler yapıyor.",
+        "entities": [
+            {"entity": "Nero", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "İstanbul'da Ford Otosan firması vardır.",
+        "entities": [
+            {"entity": "Ford Otosan", "sentiments": ["neutral"]}
+        ]
+    },
+    {
+        "sentence": "Kahve Dünyası ürünü cidden çok kaliteli gözüküyor diğer çekirdeklere göre kokusu görüntüsü tanecikleri vs kendini belli ediyor halen içmedik ama güzel olduğuna eminim sadece kargo konusunda biraz gecikme yaşadık.",
+        "entities": [
+            {"entity": "Kahve Dünyası", "sentiments": ["positive", "neutral"]}
+        ]
+    },
+    {
+        "sentence": "Dün alışveriş için @Migros’a gittim ve söylemem gereken şu var ki meyveleri çok tazeydi.",
+        "entities": [
+            {"entity": "Migros", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Evime gaz gelmiyordu, hemen Aygaz tarafından gelip sorunu çözdüler.",
+        "entities": [
+            {"entity": "Aygaz", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "CarrefourSA’dan Iphone aldım.",
+        "entities": [
+            {"entity": "CarrefourSA", "sentiments": ["neutral"]}
+        ]
+    },
+    {
+        "sentence": "Eğer evine malzeme almak istersen kesinlikle Koçtaş’tan al.",
+        "entities": [
+            {"entity": "Koçtaş", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Kargo şirketleri, Aras Kargo hariç iyiler...",
+        "entities": [
+            {"entity": "Kargo şirketleri", "sentiments": ["positive"]},
+            {"entity": "Aras Kargo", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Evkur'un sunduğu geniş kaliteli ürün yelpazesi ve esnek ödeme seçenekleri, müşterilerinin maddi sıkıntı yaşamadan evlerini döşemelerine olanak sağlıyor.",
+        "entities": [
+            {"entity": "Evkur", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Arkadaşlar kesinlikle Kumtel markasını tavsiye etmiyorum. Servis 2-3 haftadan önce gelmiyor.",
+        "entities": [
+            {"entity": "Kumtel", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Yaklaşık sekiz ay kullandıktan sonra yazıyorum. Yataş Bedding ürünü vasat. Çok kötü değil, ama iyinin de az altında.",
+        "entities": [
+            {"entity": "Yataş Bedding", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Amazon sitesinde bütün Apple ürünlerine düşük puan verdim.",
+        "entities": [
+            {"entity": "Apple", "sentiments": ["negative"]},
+            {"entity": "Amazon", "sentiments": ["neutral"]}
+        ]
+    },
+    {
+        "sentence": "Arzum rondoyu cam haznesinden dolayı beğenerek aldım. Aldığım günden beri sıkıntılı çalışıyordu.",
+        "entities": [
+            {"entity": "Arzum", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Cep telefonumu Teknosa’dan almıştım ve yere düştü ama ona bir şey olmadı.",
+        "entities": [
+            {"entity": "Teknosa", "sentiments": ["neutral"]}
+        ]
+    },
+    {
+        "sentence": "OpenAI, ChatGPT’yi üretmiş.",
+        "entities": [
+            {"entity": "OpenAI", "sentiments": ["neutral"]}
+        ]
+    },
+    {
+        "sentence": "Şu Samsung’un müşteri temsilcisi hiç ilgilenmiyor.",
+        "entities": [
+            {"entity": "Samsung", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Çok rahat ve dayanıklı olan Decathlon'dan aldığım spor ayakkabı, yürüyüş yaparken büyük konfor sağlıyor.",
+        "entities": [
+            {"entity": "Decathlon", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Çok kullanışlı ve şık olan IKEA'dan aldığımız masa, evimizin dekorasyonuna çok yakıştı.",
+        "entities": [
+            {"entity": "IKEA", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Performansı çok iyi ve kamera kalitesi mükemmel olan Teknosa'dan aldığım telefon, harika.",
+        "entities": [
+            {"entity": "Teknosa", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Hızlı ve güvenilir olan arkadaşımın tavsiye ettiği kargo şirketi, paketimi zamanında teslim etti.",
+        "entities": [
+            {"entity": "Kargo şirketi", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Miss gibi kokusu olan Creed parfümü sevgilime hediye aldım, onu çok mutlu etti.",
+        "entities": [
+            {"entity": "Creed", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Honda 1 yaşında, bakım kullanıyor, sağlık problemi yok.",
+        "entities": [
+            {"entity": "Honda", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Proplan'dan şaşmayın, F/P olarak çok iyi mama.",
+        "entities": [
+            {"entity": "Proplan", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "BMW'nin sürüş deneyimi üzerine yapılan yorumlar genellikle karışık oldu.",
+        "entities": [
+            {"entity": "BMW", "sentiments": ["neutral"]}
+        ]
+    },
+    {
+        "sentence": "Mercedes'in iç tasarımı birçok kişi tarafından incelendi ve çeşitli yorumlar yapıldı.",
+        "entities": [
+            {"entity": "Mercedes", "sentiments": ["neutral"]}
+        ]
+    },
+    {
+        "sentence": "Toyota'nın yeni modeli hakkında birçok kişi farklı görüşler belirtti.",
+        "entities": [
+            {"entity": "Toyota", "sentiments": ["neutral"]}
+        ]
+    },
+    {
+        "sentence": "H&M'in fiyat-performans oranı oldukça başarılı.",
+        "entities": [
+            {"entity": "H&M", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Boyner'in müşteri hizmetleri çok yardımsever ve hızlı çözümler sunuyor.",
+        "entities": [
+            {"entity": "Boyner", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Mavi Jeans'in kot pantolonları hem rahat hem de dayanıklı.",
+        "entities": [
+            {"entity": "Mavi Jeans", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "LC Waikiki'nin çocuk giyim koleksiyonu çok renkli ve çeşitli.",
+        "entities": [
+            {"entity": "LC Waikiki", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Zara'nın yeni koleksiyonu gerçekten çok şık ve kaliteli.",
+        "entities": [
+            {"entity": "Zara", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Koton'un yeni sezon ürünleri müşteriler tarafından beğenildi.",
+        "entities": [
+            {"entity": "Koton", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Mükemmel ötesi, bu Sony televizyon bu fiyata hakkını fazlasıyla veriyor.",
+        "entities": [
+            {"entity": "Sony", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Panasonic'in yeni kameraları, fotoğraf kalitesiyle büyüleyici.",
+        "entities": [
+            {"entity": "Panasonic", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Bosch'un çamaşır makineleri sessiz ve verimli çalışıyor.",
+        "entities": [
+            {"entity": "Bosch", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Starbucks'tan aldığım kahve soğuk geldi, memnun kalmadım.",
+        "entities": [
+            {"entity": "Starbucks", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Microsoft yazılımları birçok şirket tarafından kullanılıyor ama memnun olup olmadığını bilmiyoruz.",
+        "entities": [
+            {"entity": "Microsoft", "sentiments": ["neutral"]}
+        ]
+    },
+    {
+        "sentence": "Tesla'nın servis hizmetleri yetersiz ve pahalı ve Benz gibi değildir.",
+        "entities": [
+            {"entity": "Tesla", "sentiments": ["negative"]},
+            {"entity": "Benz", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Nike'ın spor ayakkabıları koşu sırasında inanılmaz rahatken, Adidas'ın kıyafetleri hem şık hem de rahat.",
+        "entities": [
+            {"entity": "Nike", "sentiments": ["positive"]},
+            {"entity": "Adidas", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "PepsiCo'nun içecekleri her zaman çok lezzetliyken, Coca-Cola'nın şeker oranı çok yüksek ve sağlıksız.",
+        "entities": [
+            {"entity": "PepsiCo", "sentiments": ["positive"]},
+            {"entity": "Coca-Cola", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Buckin'ın kahve çeşitleri geniş ve kaliteli, buna karşın Kahve Dünyası'nın kahveleri çoğu zaman beklenen tadı vermiyor.",
+        "entities": [
+            {"entity": "Buckin", "sentiments": ["positive"]},
+            {"entity": "Kahve Dünyası", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Ford'un araçları yakıt verimliliği ile öne çıkarken, Chevrolet'nin araçları daha fazla iç hacim sunuyor.",
+        "entities": [
+            {"entity": "Ford", "sentiments": ["positive"]},
+            {"entity": "Chevrolet", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "McDonald's'ın hizmeti hızlı ve güleryüzlü, Burger King'in hizmeti ise bazen yavaş ve ilgisiz olabiliyor.",
+        "entities": [
+            {"entity": "McDonald's", "sentiments": ["positive"]},
+            {"entity": "Burger King", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Garanti BBVA'nın mobil bankacılık uygulaması çok kullanıcı dostu, DenizBank'ın mobil uygulaması ise daha az işlevsel.",
+        "entities": [
+            {"entity": "Garanti BBVA", "sentiments": ["positive"]},
+            {"entity": "DenizBank", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Koç Holding'in sosyal sorumluluk projeleri geniş kapsamlı, Sabancı Holding'in projeleri ise daha sınırlı.",
+        "entities": [
+            {"entity": "Koç Holding", "sentiments": ["positive"]},
+            {"entity": "Sabancı Holding", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Mavi'nin kot pantolonları dayanıklılığı ile biliniyor, Koton'un kot pantolonları ise daha hızlı yıpranıyor.",
+        "entities": [
+            {"entity": "Mavi", "sentiments": ["positive"]},
+            {"entity": "Koton", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Roketsan'ın savunma sanayii projeleri yenilikçi ve ileri teknoloji içeriyor, Havelsan ise yazılım ve simülasyon çözümlerinde öne çıkıyor.",
+        "entities": [
+            {"entity": "Roketsan", "sentiments": ["positive"]},
+            {"entity": "Havelsan", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Temsa'nın otobüsleri uzun yolculuklar için çok konforlu, TOFAŞ'ın araçları ise daha çok şehir içi kullanım için uygun.",
+        "entities": [
+            {"entity": "Temsa", "sentiments": ["positive"]},
+            {"entity": "TOFAŞ", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Vakko'nun mağaza düzeni çok özenli, Vestel'in mağazaları ise bazen düzensiz olabiliyor.",
+        "entities": [
+            {"entity": "Vakko", "sentiments": ["positive"]},
+            {"entity": "Vestel", "sentiments": ["negative"]}
+        ]
+    },
+    {
+        "sentence": "Zorlu Holding, enerji, tekstil ve gayrimenkul gibi birçok sektörde faaliyet göstermektedir ve bu alanlardaki çeşitliliği ile dikkat çekmektedir.",
+        "entities": [
+            {"entity": "Zorlu Holding", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Zorlu Holding'in sürdürülebilirlik alanındaki yatırımları ve çevre dostu projeleri, topluma ve çevreye olan katkılarıyla takdir edilmektedir.",
+        "entities": [
+            {"entity": "Zorlu Holding", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Vitra, banyo ve seramik ürünlerinde geniş bir ürün yelpazesi sunmakta ve sektörde tanınmış bir marka olarak bilinmektedir.",
+        "entities": [
+            {"entity": "Vitra", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Vitra'nın bazı ürünlerinin fiyatları yüksek bulunmakta ve bu durum bazı tüketiciler tarafından eleştirilmektedir.",
+        "entities": [
+            {"entity": "Vitra", "sentiments": ["positive", "negative"]}
+        ]
+    },
+    {
+        "sentence": "Ülker, atıştırmalık ve gıda sektöründe geniş bir ürün yelpazesi sunan, Türkiye'nin önde gelen markalarından biridir.",
+        "entities": [
+            {"entity": "Ülker", "sentiments": ["positive"]}
+        ]
+    },
+    {
+        "sentence": "Ülker'in bazı ürünlerinde kullanılan şeker oranı yüksek bulunmakta ve bu durum sağlık açısından eleştirilmektedir.",
+        "entities": [
+            {"entity": "Ülker", "sentiments": ["positive", "negative"]}
+        ]
+    },
+    {
+        "sentence": "Uğur Şirketler Grubu, soğutma ve ısıtma sistemleri ile çeşitli endüstriyel ürünler sunan bir firmadır ve sektörde önemli bir yer tutmaktadır.",
+        "entities": [
+            {"entity": "Uğur Şirketler Grubu", "sentiments": ["neutral", "positive"]}
+        ]
+    },
+    {
+        "sentence": "Türkiye Sigorta'nın sunduğu kapsamlı sigorta poliçeleri ve hızlı hasar ödeme süreçleri, müşteriler tarafından memnuniyetle karşılanmaktadır.",
+        "entities": [
+            {"entity": "Türkiye Sigorta", "sentiments": ["positive"]}
+        ]
+    }
+]
