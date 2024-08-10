@@ -15,7 +15,7 @@ This repository contains a FastAPI application that performs sentiment analysis 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git](https://github.com/mahdidaraeii/TeknofestTDDI.git)
+git clone https://github.com/mahdidaraeii/TeknofestTDDI.git
 cd TeknofestTDDI
 
 
